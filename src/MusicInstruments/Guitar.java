@@ -12,3 +12,4 @@ public class Guitar implements Instrument {
         System.out.printf("Играет %s-ти струнная гитара", stringAmount);
     }
 }
+
