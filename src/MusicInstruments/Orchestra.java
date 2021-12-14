@@ -2,6 +2,7 @@ package MusicInstruments;
 
 public class Orchestra {
 
+
     public static void main(String[] args) {
 
         Instrument guitar1 = new Guitar(6);

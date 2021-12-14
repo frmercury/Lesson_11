@@ -14,3 +14,4 @@ public class Rectangle extends Figure {
         System.out.println("Rectangle area is: " + getLegA()*getLegB());
     }
 }
+

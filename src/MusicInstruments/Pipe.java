@@ -11,3 +11,4 @@ public class Pipe implements Instrument {
         System.out.printf("Играет турба диаметром %s сантиметров", diameter);
     }
 }
+

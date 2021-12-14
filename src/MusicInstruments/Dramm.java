@@ -12,3 +12,4 @@ public class Dramm implements Instrument {
         System.out.printf("Играет %s-ти сантиметровый барабан", dimension);
     }
 }
+
